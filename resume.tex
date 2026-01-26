@@ -1,0 +1,108 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\linespread{1.0}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[1]{%
+  \item \small #1%
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, itemsep=2pt, topsep=0pt, parsep=0pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Rakshith S} \\ \vspace{1pt}
+    \small 9741913621 $|$ \href{mailto:rakshiths2001official@gmail.com}{\underline{rakshiths2001official@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/rakshith-s-2k01/}{\underline{LinkedIn}} $|$
+    \href{https://github.com/CodeWreckPro}{\underline{Github}} $|$
+    \href{https://portfolio-website-jet-beta.vercel.app/}{\underline{Portfolio}}
+\end{center}
+
+\input{summary}
+\input{experience}
+\input{skills}
+\input{projects}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National Institute of Engineering}{Mysore, India}
+      {B.E in Electronics and Communication Engineering}{August 2019 -- July 2023}
+      \resumeItemListStart
+        \resumeItem{Coursework: Computer Networks, Computer Architecture, DBMS, Big Data, Machine Learning, DSA, REST API.}
+        \resumeItem{Language fluency: Kannada, English, Hindi.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------CO-CURRICULARS-----------
+\section{Co-Curriculars}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Xstasis Dance Group}{: Siemens Healthineers.} \\
+     \textbf{Project Head}{: UCSP Research Group, NIE.} \\
+     \textbf{Marketing \& Design Head}{: Onyx E-Cell, NIE.}
+    }}
+\end{itemize}
+
+\end{document}
