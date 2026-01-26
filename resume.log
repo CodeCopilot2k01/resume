@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  26 JAN 2026 22:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  26 JAN 2026 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,6 +399,20 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 9.49997pt on input line 7.
+
+Overfull \hbox (15.7424pt too wide) in paragraph at lines 10--11
+[]\OT1/phv/b/n/10 Developed REST-ful ser-vices \OT1/phv/m/n/10 and in-te-gra-ti
+on end-points; stan-dard-ized se-ri-al-iza-tion and se-cure com-mu-ni-ca-tion a
+cross Linux/Unix
+ []
+
+
+Overfull \hbox (5.93854pt too wide) in paragraph at lines 13--14
+[]\OT1/phv/b/n/10 Diagnosed per-for-mance bot-tle-necks \OT1/phv/m/n/10 across 
+com-pute/memory/I/O; im-ple-mented profiling[]driven fixes to en-sure high thro
+ugh-
+ []
+
 ) (skills.tex)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -435,7 +449,7 @@ Here is how much of TeX's memory you used:
 /Rakshiiii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Rakshii
 ii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Rakshiiii/Progr
 am files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume.pdf (2 pages, 67117 bytes).
+Output written on resume.pdf (2 pages, 66394 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
