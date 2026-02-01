@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  26 JAN 2026 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.25)  31 JAN 2026 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,20 +399,6 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 9.49997pt on input line 7.
-
-Overfull \hbox (15.7424pt too wide) in paragraph at lines 10--11
-[]\OT1/phv/b/n/10 Developed REST-ful ser-vices \OT1/phv/m/n/10 and in-te-gra-ti
-on end-points; stan-dard-ized se-ri-al-iza-tion and se-cure com-mu-ni-ca-tion a
-cross Linux/Unix
- []
-
-
-Overfull \hbox (5.93854pt too wide) in paragraph at lines 13--14
-[]\OT1/phv/b/n/10 Diagnosed per-for-mance bot-tle-necks \OT1/phv/m/n/10 across 
-com-pute/memory/I/O; im-ple-mented profiling[]driven fixes to en-sure high thro
-ugh-
- []
-
 ) (skills.tex)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -438,18 +424,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10998 strings out of 467871
- 173562 string characters out of 5423621
- 621138 words of memory out of 5000000
+ 173612 string characters out of 5423621
+ 622138 words of memory out of 5000000
  39728 multiletter control sequences out of 15000+600000
  648045 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,530b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,829b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/Rakshiiii/Program files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <D:/Rakshiiii/Program files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:
 /Rakshiiii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Rakshii
 ii/Program files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Rakshiiii/Progr
 am files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume.pdf (2 pages, 66394 bytes).
+Output written on resume.pdf (2 pages, 67035 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
